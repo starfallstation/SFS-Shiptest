@@ -2,8 +2,9 @@
 name: Bug report
 about: Create a report to help reproduce and fix an issue
 title: "[BUG]"
-labels: Bug
-assignees: ""
+labels: bug
+assignees: ''
+
 ---
 
 <!-- Write **BELOW** The Headers and **ABOVE** The comments else it may not be viewable -->
@@ -11,8 +12,7 @@ assignees: ""
 ## Round ID:
 
 <!--- **INCLUDE THE ROUND ID**
-If you discovered this issue from playing tgstation hosted servers:
-[Round ID]: # (It can be found in the Status panel or retrieved from https://atlantaned.space/statbus/round.php ! The round id let's us look up valuable information and logs for the round the bug happened.)-->
+Round ID can be found in the Status panel! The round id lets us look up valuable information and logs for the round the bug happened. If you can't retrieve round number, give date and time.-->
 
 ## Testmerges:
 
