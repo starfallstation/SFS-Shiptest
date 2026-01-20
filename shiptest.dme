@@ -3784,5 +3784,6 @@
 #include "interface\skin.dmf"
 #include "modular_starfall\placeholder.dm"
 #include "modular_starfall\code\_DEFINES\mobs.dm"
+#include "modular_starfall\code\modules\mob\dead\new_player\sprite_accessories\anthromorph.dm"
 #include "modular_starfall\code\modules\mob\living\carbon\human\species_types\anthromorphs\anthromorph.dm"
 // END_INCLUDE

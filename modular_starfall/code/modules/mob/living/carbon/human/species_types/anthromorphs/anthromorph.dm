@@ -1,10 +1,10 @@
 /datum/species/anthromorph
-	name = "\improper anthromorph"
+	name = "\improper Anthromorph"
 	id = SPECIES_ANTHROMORPH
 	default_color = "FFFFFF"
 	species_traits = list(MUTCOLORS,MUTCOLORS_SECONDARY,HAIR,FACEHAIR,LIPS,SCLERA,EMOTE_OVERLAY,HAS_FLESH,HAS_BONE)
-	default_features = list("mcolor" = "FFF", "tail_human" = "None", "ears" = "None", "wings" = "None", "horns" = "None", "body_markings" = "None")
-	mutant_bodyparts = list("ears", "tail_human","horns","body_markings")
+	default_features = list("mcolor" = "FFF", "tail_human" = "None", "ears" = "None", "wings" = "None", "horns" = "None", "body_markings" = "None", "face_markings" = "None")
+	mutant_bodyparts = list("ears", "tail_human","horns","body_markings","face_markings")
 	use_skintones = FALSE
 	skinned_type = /obj/item/stack/sheet/animalhide/human
 	disliked_food = GROSS | RAW | CLOTH
