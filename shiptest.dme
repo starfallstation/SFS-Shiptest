@@ -3783,4 +3783,5 @@
 #include "interface\stylesheet.dm"
 #include "interface\skin.dmf"
 #include "modular_starfall\placeholder.dm"
+#include "modular_starfall\code\controllers\configuration\entries\game_options.dm"
 // END_INCLUDE
